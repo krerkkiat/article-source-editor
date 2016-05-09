@@ -1,6 +1,7 @@
 /*
 Author: Krerkkiat Chusap
 */
+//var editorHost = 'http://localhost:8000/';
 var editorHost = 'https://krerkkiat.github.io/dekd/article-source-editor/';
 
 // Function to perform dynamic script injection.
