@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "Article's Source Editor",
+    "version": "1.1.0",
+    "description": "Add a raw article editor to the Dek-d's Story Editor.",
+    "author": "Krerkkiat Chusap",
+    "content_scripts": [{
+        "matches": ["http://my.dek-d.com/*/control/writer3/story-editor.php*"],
+        "js": ["scripts/jquery-2.1.4.min.js", "scripts/main.js"],
+        "run_at": "document_idle"
+    }],
+    "homepage_url": "http://writer.dek-d.com/krerkkiat/writer/viewlongc.php?id=1370664&chapter=14"
+}
