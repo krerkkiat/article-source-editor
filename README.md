@@ -1,5 +1,5 @@
 # Article's Source Editor
-Add a raw article editor to the Dek-D's Story Editor.
+Add a raw article editor to the Dek-D's Story Editor. More information can be found in http://writer.dek-d.com/krerkkiat/story/viewlongc.php?id=1370664&chapter=16 (Thai), http://writer.dek-d.com/krerkkiat/story/viewlongc.php?id=1370664&chapter=28 (Thai)
 
 Based on Dek-D's Story Editor
 
